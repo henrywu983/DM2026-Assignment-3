@@ -1,2 +1,1 @@
-# DM2026-Assignment-3
-
+# Human Activity Recognition
